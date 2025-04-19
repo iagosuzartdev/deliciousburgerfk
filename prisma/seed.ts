@@ -11,7 +11,7 @@ const main = async () => {
       data: {
         name: "Delicious Burger FK",
         slug: "deliciousburgerfk",
-        description: "O melhor burger da Bahia",
+        description: "O melhor Burger da Bahia",
         avatarImageUrl:
           "https://qqkj4g40p2.ufs.sh/f/miTXpbtWb1RXVKCIXMZCkuHsUXfatiKo8547l6FwS3YEMDNR",
         coverImageUrl:
