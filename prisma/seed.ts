@@ -13,7 +13,7 @@ const main = async () => {
         slug: "deliciousburgerfk",
         description: "O melhor burger da Bahia",
         avatarImageUrl:
-          "https://qqkj4g40p2.ufs.sh/f/miTXpbtWb1RX4AHrlUmHIbz5RP6udegZLqC8FTjxMJmpB73r",
+          "https://qqkj4g40p2.ufs.sh/f/miTXpbtWb1RXVKCIXMZCkuHsUXfatiKo8547l6FwS3YEMDNR",
         coverImageUrl:
           "https://qqkj4g40p2.ufs.sh/f/miTXpbtWb1RXt3zKwwnwXiGL9HfS0k1bn7qIgBpjuxFvZWc8",
       },
@@ -32,7 +32,7 @@ const main = async () => {
             "Quatro hambúrgueres (100% carne bovina), alface americana, queijo fatiado sabor cheddar, molho especial, cebola, picles e pão com gergilim, acompanhamento e bebida.",
           price: 39.9,
           imageUrl:
-            "https://u9a6wmr3as.ufs.sh/f/jppBrbk0cChQaHB8tslkBUjlHSKiuseLm2hIFzVY0OtxEPnw",
+            "https://qqkj4g40p2.ufs.sh/f/miTXpbtWb1RX3jGMC3SH38oDOEwXHQp7ruFLW9NkRYy4eahP",
           menuCategoryId: combosCategory.id,
           restaurantId: restaurant.id,
           ingredients: [
@@ -51,7 +51,7 @@ const main = async () => {
             "Dois hambúrgueres de carne 100% bovina, méquinese, a exclusiva maionese especial com sabor de carne defumada, onion rings, fatias de bacon, queijo processado sabor cheddar, o delicioso molho lácteo com queijo tipo cheddar tudo isso no pão tipo brioche trazendo uma explosão de sabores pros seus dias de glória! Acompanhamento e Bebida.",
           price: 41.5,
           imageUrl:
-            "https://u9a6wmr3as.ufs.sh/f/jppBrbk0cChQeGQofnEPyQaHEV2WL8rGUs41oMICtYfNkphl",
+            "https://qqkj4g40p2.ufs.sh/f/miTXpbtWb1RXQTFaH9KWES7kBoAG1VJcDH6UxuFm2yYhNewK",
           menuCategoryId: combosCategory.id,
           restaurantId: restaurant.id,
           ingredients: [
@@ -71,7 +71,7 @@ const main = async () => {
             "Composto por pão tipo brioche com batata, molho Honey&Fire, bacon em fatias, alface, tomate, queijo sabor cheddar e carne 100% de peito de frango, temperada e empanada, acompanhamento e bebida.",
           price: 39.9,
           imageUrl:
-            "https://u9a6wmr3as.ufs.sh/f/jppBrbk0cChQr12aTqPo3SsGjBJCaM7yhxnbDlXeL5N9dckv",
+            "https://qqkj4g40p2.ufs.sh/f/miTXpbtWb1RXenJ5zY96ptmGlSqsJUdTHZAcYrXEyvhFaO0g",
           menuCategoryId: combosCategory.id,
           restaurantId: restaurant.id,
           ingredients: [
@@ -91,7 +91,7 @@ const main = async () => {
             "Dois hambúrgueres (100% carne bovina), molho lácteo com queijo tipo cheddar, cebola ao molho shoyu e pão escuro com gergelim, acompanhamento e bebida.",
           price: 36.2,
           imageUrl:
-            "https://u9a6wmr3as.ufs.sh/f/jppBrbk0cChQWdq0w8niS9XCLQu7Nb4jvBYZze16goaOqsKR",
+            "https://qqkj4g40p2.ufs.sh/f/miTXpbtWb1RXKc30tEf7Yrtug1kVq0Wvy3J64EjIBxwA8RX5",
           menuCategoryId: combosCategory.id,
           restaurantId: restaurant.id,
           ingredients: [
