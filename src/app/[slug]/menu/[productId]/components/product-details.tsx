@@ -51,7 +51,7 @@ const ProductDetails = ({ product }: ProductDetailsProps) => {
       <div className="relative z-50 mt-[-1.5rem] flex flex-auto flex-col overflow-hidden rounded-t-3xl p-5">
         <div className="flex-auto overflow-hidden">
           {/* RESTAURANTE */}
-          <div className="flex items-center gap-1.5">
+          <div className="flex items-center gap-1.5 mt-3 mb-1">
             <Image
               src={product.restaurant.avatarImageUrl}
               alt={product.restaurant.name}
