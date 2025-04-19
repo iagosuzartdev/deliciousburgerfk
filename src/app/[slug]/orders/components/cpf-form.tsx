@@ -85,7 +85,7 @@ const CpfForm = () => {
               )}
             />
             <DrawerFooter>
-              <Button variant="destructive" className="w-full rounded-full">
+              <Button variant="destructive" className="w-full rounded-full  hover:bg-red-600 transition-colors duration-300">
                 Confirmar
               </Button>
               <DrawerClose asChild>
