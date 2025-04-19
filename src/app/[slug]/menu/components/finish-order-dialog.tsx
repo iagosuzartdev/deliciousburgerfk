@@ -142,7 +142,7 @@ const FinishOrderDialog = ({ open, onOpenChange }: FinishOrderDialogProps) => {
                 <Button
                   type="submit"
                   variant="destructive"
-                  className="rounded-full"
+                  className="rounded-full hover:bg-orange-600 transition-colors duration-300"
                   disabled={isPending}
                 >
                   {isPending && <Loader2Icon className="animate-spin"/>}
