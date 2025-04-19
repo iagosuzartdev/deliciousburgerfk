@@ -40,7 +40,7 @@ const CartProductItem = ({ product }: CartItemProps) => {
             </Button>
             <p className="w-7 text-xs">{product.quantity}</p>
             <Button
-              className="h-7 w-7 rounded-lg"
+              className="h-7 w-7 rounded-lg  hover:bg-red-600"
               variant="destructive"
               onClick={() => increaseProductQuantity(product.id)}
             >

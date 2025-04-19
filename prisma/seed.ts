@@ -32,7 +32,7 @@ const main = async () => {
             "Quatro hambúrgueres (100% carne bovina), alface americana, queijo fatiado sabor cheddar, molho especial, cebola, picles e pão com gergilim, acompanhamento e bebida.",
           price: 39.9,
           imageUrl:
-            "https://qqkj4g40p2.ufs.sh/f/miTXpbtWb1RX3jGMC3SH38oDOEwXHQp7ruFLW9NkRYy4eahP",
+            "https://qqkj4g40p2.ufs.sh/f/miTXpbtWb1RXiiqfZWso5RxmKB7JaXZyNDAf2zvdsL3tYMIl",
           menuCategoryId: combosCategory.id,
           restaurantId: restaurant.id,
           ingredients: [
@@ -51,7 +51,7 @@ const main = async () => {
             "Dois hambúrgueres de carne 100% bovina, méquinese, a exclusiva maionese especial com sabor de carne defumada, onion rings, fatias de bacon, queijo processado sabor cheddar, o delicioso molho lácteo com queijo tipo cheddar tudo isso no pão tipo brioche trazendo uma explosão de sabores pros seus dias de glória! Acompanhamento e Bebida.",
           price: 41.5,
           imageUrl:
-            "https://qqkj4g40p2.ufs.sh/f/miTXpbtWb1RXQTFaH9KWES7kBoAG1VJcDH6UxuFm2yYhNewK",
+            "https://qqkj4g40p2.ufs.sh/f/miTXpbtWb1RXcqC6BktEQn9BXgvCNeFZhGLqyzMAPYoOWbiI",
           menuCategoryId: combosCategory.id,
           restaurantId: restaurant.id,
           ingredients: [
@@ -71,7 +71,7 @@ const main = async () => {
             "Composto por pão tipo brioche com batata, molho Honey&Fire, bacon em fatias, alface, tomate, queijo sabor cheddar e carne 100% de peito de frango, temperada e empanada, acompanhamento e bebida.",
           price: 39.9,
           imageUrl:
-            "https://qqkj4g40p2.ufs.sh/f/miTXpbtWb1RXenJ5zY96ptmGlSqsJUdTHZAcYrXEyvhFaO0g",
+            "https://qqkj4g40p2.ufs.sh/f/miTXpbtWb1RX2J5OOMNnyi7NPRUBuIg0qMsXJ4OHxwfTrVLF",
           menuCategoryId: combosCategory.id,
           restaurantId: restaurant.id,
           ingredients: [
@@ -91,7 +91,7 @@ const main = async () => {
             "Dois hambúrgueres (100% carne bovina), molho lácteo com queijo tipo cheddar, cebola ao molho shoyu e pão escuro com gergelim, acompanhamento e bebida.",
           price: 36.2,
           imageUrl:
-            "https://qqkj4g40p2.ufs.sh/f/miTXpbtWb1RXKc30tEf7Yrtug1kVq0Wvy3J64EjIBxwA8RX5",
+            "https://qqkj4g40p2.ufs.sh/f/miTXpbtWb1RXmC8ykrWb1RXGNS7VatrpWOZ8iFAsjclnH5LI",
           menuCategoryId: combosCategory.id,
           restaurantId: restaurant.id,
           ingredients: [
@@ -197,12 +197,12 @@ const main = async () => {
     await tx.product.createMany({
       data: [
         {
-          name: "Fritas Grande",
-          description: "Batatas fritas crocantes e sequinhas. Vem bastante!",
+          name: "Big Bacon Fritas",
+          description: "Batatas fritas crocantes e sequinhas com uma bela camada de Cheddar com Bacon. Vem bastantee!",
           ingredients: [],
           price: 10.9,
           imageUrl:
-            "https://u9a6wmr3as.ufs.sh/f/jppBrbk0cChQNd3jSNrcJroaszwjUAlM6iSO5ZTx2HV70t31",
+            "https://qqkj4g40p2.ufs.sh/f/miTXpbtWb1RXR7HCye4iPDuT5JYV4tafKcdm2LyrHbBhpF69",
           menuCategoryId: frenchFriesCategory.id,
           restaurantId: restaurant.id,
         },
@@ -213,7 +213,7 @@ const main = async () => {
           ingredients: [],
           price: 9.9,
           imageUrl:
-            "https://u9a6wmr3as.ufs.sh/f/jppBrbk0cChQ7Y6lv9tkc0L9oMIXZsFJtwnBh2KCz3y6uSW1",
+            "https://qqkj4g40p2.ufs.sh/f/miTXpbtWb1RXsoKKBL7dGgXwe6N18ZfbY0KlazrFvchWTUJq",
           menuCategoryId: frenchFriesCategory.id,
           restaurantId: restaurant.id,
         },
@@ -224,7 +224,7 @@ const main = async () => {
           ingredients: [],
           price: 5.9,
           imageUrl:
-            "https://u9a6wmr3as.ufs.sh/f/jppBrbk0cChQ5toOZxYa1oARJCUGh4EY3x8NjXHtvZ7lnVfw",
+            "https://qqkj4g40p2.ufs.sh/f/miTXpbtWb1RXsoKKBL7dGgXwe6N18ZfbY0KlazrFvchWTUJq",
           menuCategoryId: frenchFriesCategory.id,
           restaurantId: restaurant.id,
         },

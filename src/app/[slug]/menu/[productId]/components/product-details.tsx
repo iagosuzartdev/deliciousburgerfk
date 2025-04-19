@@ -83,7 +83,7 @@ const ProductDetails = ({ product }: ProductDetailsProps) => {
               <p className="w-4">{quantity}</p>
               <Button
                 variant="destructive"
-                className="h-8 w-8 rounded-xl"
+                className="h-8 w-8 rounded-xl hover:bg-red-600"
                 onClick={handleIncreaseQuantity}
               >
                 <PlusIcon />
